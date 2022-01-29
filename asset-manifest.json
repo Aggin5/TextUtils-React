@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Aggin5/static/css/main.77726ba8.chunk.css",
-    "main.js": "/Aggin5/static/js/main.f9a1a617.chunk.js",
-    "main.js.map": "/Aggin5/static/js/main.f9a1a617.chunk.js.map",
-    "runtime-main.js": "/Aggin5/static/js/runtime-main.2cff02d0.js",
-    "runtime-main.js.map": "/Aggin5/static/js/runtime-main.2cff02d0.js.map",
-    "static/js/2.2ff712b2.chunk.js": "/Aggin5/static/js/2.2ff712b2.chunk.js",
-    "static/js/2.2ff712b2.chunk.js.map": "/Aggin5/static/js/2.2ff712b2.chunk.js.map",
-    "static/js/3.9ebfada5.chunk.js": "/Aggin5/static/js/3.9ebfada5.chunk.js",
-    "static/js/3.9ebfada5.chunk.js.map": "/Aggin5/static/js/3.9ebfada5.chunk.js.map",
-    "index.html": "/Aggin5/index.html",
-    "static/css/main.77726ba8.chunk.css.map": "/Aggin5/static/css/main.77726ba8.chunk.css.map",
-    "static/js/2.2ff712b2.chunk.js.LICENSE.txt": "/Aggin5/static/js/2.2ff712b2.chunk.js.LICENSE.txt"
+    "main.css": "/Aggin5/TextUtils-React/static/css/main.77726ba8.chunk.css",
+    "main.js": "/Aggin5/TextUtils-React/static/js/main.f9a1a617.chunk.js",
+    "main.js.map": "/Aggin5/TextUtils-React/static/js/main.f9a1a617.chunk.js.map",
+    "runtime-main.js": "/Aggin5/TextUtils-React/static/js/runtime-main.053e27e2.js",
+    "runtime-main.js.map": "/Aggin5/TextUtils-React/static/js/runtime-main.053e27e2.js.map",
+    "static/js/2.2ff712b2.chunk.js": "/Aggin5/TextUtils-React/static/js/2.2ff712b2.chunk.js",
+    "static/js/2.2ff712b2.chunk.js.map": "/Aggin5/TextUtils-React/static/js/2.2ff712b2.chunk.js.map",
+    "static/js/3.9ebfada5.chunk.js": "/Aggin5/TextUtils-React/static/js/3.9ebfada5.chunk.js",
+    "static/js/3.9ebfada5.chunk.js.map": "/Aggin5/TextUtils-React/static/js/3.9ebfada5.chunk.js.map",
+    "index.html": "/Aggin5/TextUtils-React/index.html",
+    "static/css/main.77726ba8.chunk.css.map": "/Aggin5/TextUtils-React/static/css/main.77726ba8.chunk.css.map",
+    "static/js/2.2ff712b2.chunk.js.LICENSE.txt": "/Aggin5/TextUtils-React/static/js/2.2ff712b2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2cff02d0.js",
+    "static/js/runtime-main.053e27e2.js",
     "static/js/2.2ff712b2.chunk.js",
     "static/css/main.77726ba8.chunk.css",
     "static/js/main.f9a1a617.chunk.js"
